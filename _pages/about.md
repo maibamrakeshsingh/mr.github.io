@@ -1,6 +1,6 @@
 ---
-layout: Home
-title: Home
+layout: About
+title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
