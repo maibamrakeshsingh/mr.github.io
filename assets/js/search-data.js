@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mr.github.io/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/mr.github.io/people/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -505,6 +498,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://wa.me/", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/maibamrakeshsingh", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/your-linkedin-username", "_blank");
         },
       },{
       id: 'light-theme',
