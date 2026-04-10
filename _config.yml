@@ -165,10 +165,10 @@ collections:
   teachings:
     output: true
 #-----------------------------------------------------------------------------
-collections:
-  people:
-    output: true
-    permalink: /people/:name/
+#collections:
+  #people:
+    #output: true
+    #permalink: /people/:name/
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
