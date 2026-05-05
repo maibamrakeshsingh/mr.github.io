@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Bharathidasan University</a>. Tiruchirappalli,620023 - Inida.
 
 profile:
   align: right
