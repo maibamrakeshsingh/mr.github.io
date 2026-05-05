@@ -1,14 +1,14 @@
 cv:
   name: Maibam Rakesh
   label: Doctoral Candidate
-  email: einstein@example.com
-  location: Princeton, NJ
+  email: maibamrakeshsingh31@gmail.com
+  location: Tiruchirappalli, imphal-India
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: I am an aspiring researcher in applied mathematics and systems science, with a focus on probabilistic and stochastic modeling of complex systems. My current work investigates agent-based voter dynamics in financial markets, specifically analyzing subsampling effects on data. I am interested in developing rigorous mathematical models that capture uncertainty, interaction, and emergent behavior in real-world systems.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    #- network: X
+    #  username: AlbertEinstein
     - network: GitHub
       username: example
     - network: LinkedIn
@@ -23,15 +23,15 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
+      - institution: Bharathidasan University 
+        location: Tiruchirappalli, India
         url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        area: Statistics
+        studyType: M.Sc.
+        start_date: June 2024
+        end_date: June 2026
+        score: "9.46 Cgpa"
+        courses: "Statistical Mathematics"
         highlights:
           - Description 1.
           - Description 2.
