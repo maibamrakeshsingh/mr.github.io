@@ -6,7 +6,7 @@ subtitle: <a href='#'>Bharathidasan University</a>. Tiruchirappalli,620023 - Ini
 
 profile:
   align: right
-  image: assets/rakes.png
+  image: rakes.png
   image_circular: false # crops the image to make it circular
   more_info: >
     
